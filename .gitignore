@@ -1,5 +1,5 @@
 *.pyc
 */*.pyc
-images
-js
-img
+images/*
+js/*
+img/*
